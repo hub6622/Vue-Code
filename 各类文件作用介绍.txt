@@ -1,0 +1,5 @@
+.vscode 工具的配置文件
+node_modules 依赖文件
+public 资源文件
+package.json 详细描述文件
+vue.config.js vue配置文件
